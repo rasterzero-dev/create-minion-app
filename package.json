@@ -1,6 +1,6 @@
 {
   "name": "create-minion-app",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "description": "Create a Minion Android app with React or Svelte",
   "license": "UNLICENSED",
   "type": "module",
