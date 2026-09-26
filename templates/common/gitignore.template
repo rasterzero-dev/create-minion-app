@@ -1,0 +1,11 @@
+node_modules/
+.env.local
+.deps/
+.gradle/
+**/build/
+**/.cxx/
+**/.gradle/
+**/local.properties
+**/gradle-wrapper.jar
+**/src/main/assets/app.js
+**/src/main/assets/minion-fonts/

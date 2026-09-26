@@ -1,0 +1,26 @@
+{
+  "name": "create-minion-app",
+  "version": "0.1.0",
+  "description": "Create a Minion Android app with React or Svelte",
+  "license": "UNLICENSED",
+  "type": "module",
+  "bin": {
+    "create-minion-app": "./index.mjs"
+  },
+  "files": [
+    "index.mjs",
+    "templates",
+    "assets"
+  ],
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "scripts": {
+    "check": "node --check index.mjs",
+    "pack:check": "npm pack --dry-run"
+  },
+  "dependencies": {
+    "@clack/prompts": "^0.10.1",
+    "picocolors": "^1.1.1"
+  }
+}

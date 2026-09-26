@@ -1,0 +1,5 @@
+package __APPLICATION_ID__;
+
+import dev.minion.MinionActivity;
+
+public final class MainActivity extends MinionActivity {}
